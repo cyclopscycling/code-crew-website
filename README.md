@@ -7,7 +7,7 @@ href="css/my-first-stylesheet.css"/>
 </head>
 <body>
 <h1>About us</h1>
-<p>us the best!</p>
+<p>were the best!</p>
 <p>I also love video games and coding, on video games i'm  normally called cyclopscycling.</p>
 </body>
 </html>
