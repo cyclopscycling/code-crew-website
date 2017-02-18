@@ -7,11 +7,11 @@ href="css/my-first-stylesheet.css"/>
 </head>
 <body>
 <h1>About us</h1>
-<p>were the best!</p>
+<p>we're the best!</p>
 <p>I also love video games and coding, on video games i'm  normally called cyclopscycling.</p>
 </body>
 </html>
-<p>this is my <strong>first</strong> website!</p>
+<p>this is our <strong>first</strong> website!</p>
 <p>i love shusi!</p>
 <p><img src="images/BENTO_BOX%20for%20web%20site.png"
         alt="shusi"/></p>
